@@ -2,7 +2,7 @@
 
 ##   프로젝트 소개
 
-> U-healthcare 강의 중 진행한 ***스마트 목도리*** 프로젝트 입니다.
+> U-healthcare 강의 중 진행한 ***스마트 목도리***  프로젝트 입니다.
 
 > [🔗 보고서](https://drive.google.com/drive/folders/1SY3sKrtPb2CIKiG18CglOtDQgr0kXa-j?usp=sharing)
 
@@ -47,7 +47,7 @@
 <br>
 
 ## ⚙️ 아두이노 설계
-<img width="400" alt="스마트 목도리 설계도" src="https://github.com/user-attachments/assets/bd776964-cb9d-4d9e-a874-76fbf43c041b">
+<img width="500" alt="스마트 목도리 설계도" src="https://github.com/user-attachments/assets/74390f01-c5df-476f-8fc2-fd05027d5e0a">
 
 
   
