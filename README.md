@@ -2,12 +2,15 @@
 
 ##   프로젝트 소개
 
->U-healthcare 강의 중 진행한 ***스마트 목도리*** 프로젝트 입니다.
+> U-healthcare 강의 중 진행한 ***스마트 목도리*** 프로젝트 입니다.
+
+> [🔗 보고서](https://drive.google.com/drive/folders/1SY3sKrtPb2CIKiG18CglOtDQgr0kXa-j?usp=sharing)
+
 <p align = "center"> 
   <img width="400" src="https://github.com/user-attachments/assets/4f95e804-1fc4-4688-b08c-beb1069bd771">
   <img width="400" src="https://github.com/user-attachments/assets/c8c589a6-0b96-4551-9317-c4c953dbaa83">
 </p>
-> [🔗 개발 문서](https://drive.google.com/drive/folders/1SY3sKrtPb2CIKiG18CglOtDQgr0kXa-j?usp=sharing)
+
 
 ### 🎞 프로젝트 진행 기간
 
